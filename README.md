@@ -37,7 +37,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Create Ticket
 
 <p align="center">
-<img src="https://i.imgur.com/G7Ak6uI.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/UdiPc1s.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/4OUSma0.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/FKXnxTT.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -49,7 +49,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   
   
 <p align="center">
-<img src="https://i.imgur.com/sDgzS36.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/0ayJL1M.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
 
@@ -65,7 +65,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p align="center">
-<img src="https://i.imgur.com/Du3kmui.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/mlYc56K.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Z0mOCXX.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 <h3>Stage 3: Working the Issue</h3>
