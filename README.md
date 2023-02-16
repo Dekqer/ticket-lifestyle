@@ -82,8 +82,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - The ticket should now be on the "closed" tab since it has been resolved.
 
 <p align="center">
-<img src="https://i.imgur.com/et8h651.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/2ZztKFE.png" height="70%" width="70%" alt="Azure Free Account"/>
 </p>
-
-
-🎉Congratulations! You have created and resolved your first ticket!🎉
